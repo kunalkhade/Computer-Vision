@@ -31,29 +31,30 @@ Results -
 ![Match_Result2](https://user-images.githubusercontent.com/50337861/80893164-2d821a80-8c8d-11ea-8269-0179f239cae4.JPG)
 
 # PROJECT No.3 - Statistical Pattern Recognition
-Input images with SVD. Find out Different indexing of different objects. (Manual Method)
+              Input images with SVD. Find out Different indexing of different objects. (Manual Method)
                                                         Boat
 ![boat_table](https://user-images.githubusercontent.com/50337861/80893634-72a84b80-8c91-11ea-91ef-9e9d2b06bff5.JPG)
 
                                                         Car
 ![Car_table](https://user-images.githubusercontent.com/50337861/80893639-78059600-8c91-11ea-8e3e-c73946af14c3.JPG)
 
-Respective Eign Images
+                                                Respective Eign Images
 
 ![Eign_Image1](https://user-images.githubusercontent.com/50337861/80893656-9bc8dc00-8c91-11ea-9f8f-03fb2abc285d.JPG)
 
 ![Eign_Image3](https://user-images.githubusercontent.com/50337861/80893657-9d929f80-8c91-11ea-929b-0472ec836a7a.JPG)
 
-Input images with SVD. Find out Different indexing of different objects using energy function. 
+              Input images with SVD. Find out Different indexing of different objects using energy function. 
 
 ![Formula](https://user-images.githubusercontent.com/50337861/80893686-c87cf380-8c91-11ea-96ef-ab87010baa59.JPG)
 
-Pattern Curve and find out the user-selected image. 
-
+                              Pattern Curve and find out the user-selected image. 
+                                      (User selected image - Black Spot)
 ![3dPlot_new](https://user-images.githubusercontent.com/50337861/80893749-5a84fc00-8c92-11ea-9546-d62c1e4bd931.JPG)
 ![3dPlot](https://user-images.githubusercontent.com/50337861/80893751-5b1d9280-8c92-11ea-9248-00b5436d4c71.JPG)
 
-Final Output with the image as well as pose estimation (execute only for the first image but can extend up to N number of images sets)
+                           Final Output with the image as well as pose estimation 
+         (execute only for the first image but can extend up to N number of images sets)
 
 ![Final_test 4](https://user-images.githubusercontent.com/50337861/80893701-e5b1c200-8c91-11ea-822e-5744f1377751.JPG)
 ![Final_test 3](https://user-images.githubusercontent.com/50337861/80893702-e5b1c200-8c91-11ea-9c5d-b686bc0b8b84.JPG)
