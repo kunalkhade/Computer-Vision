@@ -60,7 +60,9 @@ Results -
 ![Final_test 3](https://user-images.githubusercontent.com/50337861/80893702-e5b1c200-8c91-11ea-9c5d-b686bc0b8b84.JPG)
 ![final result](https://user-images.githubusercontent.com/50337861/80893704-e9454900-8c91-11ea-92a4-21fb4d685e7f.JPG)
 
-
+Author - Kunal Khade  @kunalkailas.khade@mines.sdsmt.edu
+Electrical Engineering specialization in robotics graduate student 
+South Dakota School of mines and technology. 
 
 
 
