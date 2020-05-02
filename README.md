@@ -1,4 +1,5 @@
 # Computer-Vision
+Every folder consists of a different projects. Read problem description .pdf file in each folder before beginning to the code. 
 # PROJECT No.1 - Hybrid Images
 
                           Hybrid image output generated from frequency domain
